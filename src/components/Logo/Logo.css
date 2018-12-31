@@ -1,0 +1,7 @@
+.Tilt {
+	border: 5px;
+	background: linear-gradient(to right, #66ffff 0%, #6699ff 100%);
+}
+.Tilt-inner {
+	padding-top: 25px;
+}
